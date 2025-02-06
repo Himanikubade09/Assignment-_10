@@ -9,6 +9,8 @@ Java is a high-level, object-oriented programming language developed by **Sun Mi
 **Secure** – Provides runtime security and memory management
 **Multi-threaded** – Supports concurrent execution of multiple threads
 **Automatic Memory Management** – Uses Garbage Collection
+**Platform Independent** – "Write Once, Run Anywhere" (WORA)
 
 
+# Assignment-_10
 # Assignment-_10
